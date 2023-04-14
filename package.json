@@ -1,0 +1,17 @@
+{
+  "name": "rest-api-node",
+  "version": "1.0.0",
+  "description": "building product-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.10.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.31.0",
+    "sequelize-cli": "^6.6.0"
+  }
+}
